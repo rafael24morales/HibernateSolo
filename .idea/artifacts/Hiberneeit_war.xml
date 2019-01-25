@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Hiberneeit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Hiberneeit-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Hiberneeit:war exploded" />
+    </root>
+  </artifact>
+</component>
